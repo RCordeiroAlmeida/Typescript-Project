@@ -1,0 +1,10 @@
+{
+    "compilerOptions":{
+        "target": "ES2022", //compilar para a versão "tal" do JS
+        "outDir": "./dist/js/", //local da pasta para onde deve mandar
+        "noEmitOnError": true, //não enviar caso haja erro
+    },
+    "include": [
+        "./src/**/*" // compilar os arquivos aqui encontrados
+    ]
+}
