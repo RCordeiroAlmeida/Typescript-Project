@@ -35,7 +35,7 @@ elementoFormulario.addEventListener("submit", function(event){   //escuta o even
         return;
     }
 
-    atualizarSaldo(saldo);
+    atualizarSaldo(saldo); 
 
     //construindo objeto que constam as informações do tipo transação criado
     const novaTransacao: Transacao = {
