@@ -17,5 +17,5 @@
 *
 
 * Os componentes
-  - Nova transação: deve apenas coletar as informações do formda interface e repassar os dados para o módulo Conta
-  - Saldo: deve exibir as informações de dadta de acesso e do saldo para o usuário na interface, acessando esses dados através do módulo Conta
+  - Nova transação: deve apenas coletar as informações do form da interface e repassar os dados para o módulo Conta
+  - Saldo: deve exibir as informações de data de acesso e do saldo para o usuário na interface, acessando esses dados através do módulo Conta
